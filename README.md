@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fatbun/phasefit/main/assets/logo.png" alt="PhaseFit" width="120" />
+  <img src="./assets/logo.png" alt="PhaseFit" width="120" />
 </p>
 <h1 align="center">PhaseFit</h1>
 <p align="center"><strong>AI-powered nutrition & fitness tracking for purposeful body recomposition.</strong></p>
