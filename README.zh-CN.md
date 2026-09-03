@@ -5,8 +5,8 @@
 <p align="center"><strong>AI 驱动的营养与健身追踪，助力有目标的体态管理。</strong></p>
 <p align="center">拍照记录饮食。对话式追踪运动。智能评分系统。<br>无论你在减脂、增肌还是维持体重，PhaseFit 都是你的 AI 伙伴。</p>
 <p align="center">
-  <a href="https://phasefit.top">官网</a> &nbsp;|&nbsp;
-  <a href="https://phasefit.top/zh-CN/pricing">定价</a> &nbsp;|&nbsp;
+  <a href="https://phasefit.top/landing">官网</a> &nbsp;|&nbsp;
+  <a href="https://phasefit.top/pricing">定价</a> &nbsp;|&nbsp;
   <a href="README.md">English</a>
 </p>
 
@@ -61,7 +61,7 @@ PhaseFit 是一款基于阶段管理的体重管控应用，通过 AI 辅助追�
 | Free | $0 | $0 |
 | Pro | ~~$9.9~~ **$6.9**/月 | ~~$69~~ **$49**/年（省 41%） |
 
-详见 [定价页面](https://phasefit.top/zh-CN/pricing)。
+详见 [定价页面](https://phasefit.top/pricing)。
 
 ---
 
@@ -75,7 +75,7 @@ PhaseFit 是一款基于阶段管理的体重管控应用，通过 AI 辅助追�
 
 ## 链接
 
-- [官网](https://phasefit.top)
+- [官网](https://phasefit.top/landing)
 - [隐私政策](https://phasefit.top/privacy)
 - [服务条款](https://phasefit.top/terms)
 

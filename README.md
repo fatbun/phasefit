@@ -5,8 +5,8 @@
 <p align="center"><strong>AI-powered nutrition & fitness tracking for purposeful body recomposition.</strong></p>
 <p align="center">Photo food logging. Conversational tracking. Smart scoring.<br>Whether you are cutting, bulking, or maintaining, PhaseFit is your AI partner.</p>
 <p align="center">
-  <a href="https://phasefit.top">Website</a> &nbsp;|&nbsp;
-  <a href="https://phasefit.top/pricing">Pricing</a> &nbsp;|&nbsp;
+  <a href="https://phasefit.top/en/landing">Website</a> &nbsp;|&nbsp;
+  <a href="https://phasefit.top/en/pricing">Pricing</a> &nbsp;|&nbsp;
   <a href="README.zh-CN.md">中文版</a>
 </p>
 
@@ -61,7 +61,7 @@ All supported languages include full i18n coverage with AI prompts fine-tuned fo
 | Free | $0 | $0 |
 | Pro | ~~$9.9~~ **$6.9**/mo | ~~$69~~ **$49**/yr (save 41%) |
 
-See [Pricing](https://phasefit.top/pricing) for details.
+See [Pricing](https://phasefit.top/en/pricing) for details.
 
 ---
 
@@ -75,9 +75,9 @@ For direct support: [support@phasefit.top](mailto:support@phasefit.top)
 
 ## Links
 
-- [Website](https://phasefit.top)
-- [Privacy Policy](https://phasefit.top/privacy)
-- [Terms of Service](https://phasefit.top/terms)
+- [Website](https://phasefit.top/en/landing)
+- [Privacy Policy](https://phasefit.top/en/privacy)
+- [Terms of Service](https://phasefit.top/en/terms)
 
 ---
 
