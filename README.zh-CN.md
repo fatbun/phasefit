@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="PhaseFit" width="120" />
+  <img src="https://raw.githubusercontent.com/fatbun/phasefit/main/assets/logo.png" alt="PhaseFit" width="120" />
 </p>
 <h1 align="center">PhaseFit</h1>
 <p align="center"><strong>AI 驱动的营养与健身追踪，助力有目标的体态管理。</strong></p>
