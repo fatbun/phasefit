@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="assets/logo.png" alt="PhaseFit" width="120" />
-  <h1>PhaseFit</h1>
-  <p><strong>AI-powered nutrition & fitness tracking for purposeful body recomposition.</strong></p>
-  <p>Photo food logging. Conversational tracking. Smart scoring.<br>Whether you are cutting, bulking, or maintaining, PhaseFit is your AI partner.</p>
-  <p>
-    <a href="https://phasefit.top">Website</a> &nbsp;|&nbsp;
-    <a href="https://phasefit.top/pricing">Pricing</a> &nbsp;|&nbsp;
-    <a href="README.zh-CN.md">中文版</a>
-  </p>
-</div>
+<p align="center">
+  <img src="./assets/logo.png" alt="PhaseFit" width="120" />
+</p>
+<h1 align="center">PhaseFit</h1>
+<p align="center"><strong>AI-powered nutrition & fitness tracking for purposeful body recomposition.</strong></p>
+<p align="center">Photo food logging. Conversational tracking. Smart scoring.<br>Whether you are cutting, bulking, or maintaining, PhaseFit is your AI partner.</p>
+<p align="center">
+  <a href="https://phasefit.top">Website</a> &nbsp;|&nbsp;
+  <a href="https://phasefit.top/pricing">Pricing</a> &nbsp;|&nbsp;
+  <a href="README.zh-CN.md">中文版</a>
+</p>
 
 ---
 

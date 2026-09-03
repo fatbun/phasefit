@@ -1,14 +1,14 @@
-<div align="center">
-  <img src="assets/logo.png" alt="PhaseFit" width="120" />
-  <h1>PhaseFit</h1>
-  <p><strong>AI 驱动的营养与健身追踪，助力有目标的体态管理。</strong></p>
-  <p>拍照记录饮食。对话式追踪运动。智能评分系统。<br>无论你在减脂、增肌还是维持体重，PhaseFit 都是你的 AI 伙伴。</p>
-  <p>
-    <a href="https://phasefit.top">官网</a> &nbsp;|&nbsp;
-    <a href="https://phasefit.top/zh-CN/pricing">定价</a> &nbsp;|&nbsp;
-    <a href="README.md">English</a>
-  </p>
-</div>
+<p align="center">
+  <img src="./assets/logo.png" alt="PhaseFit" width="120" />
+</p>
+<h1 align="center">PhaseFit</h1>
+<p align="center"><strong>AI 驱动的营养与健身追踪，助力有目标的体态管理。</strong></p>
+<p align="center">拍照记录饮食。对话式追踪运动。智能评分系统。<br>无论你在减脂、增肌还是维持体重，PhaseFit 都是你的 AI 伙伴。</p>
+<p align="center">
+  <a href="https://phasefit.top">官网</a> &nbsp;|&nbsp;
+  <a href="https://phasefit.top/zh-CN/pricing">定价</a> &nbsp;|&nbsp;
+  <a href="README.md">English</a>
+</p>
 
 ---
 
