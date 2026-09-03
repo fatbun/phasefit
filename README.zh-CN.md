@@ -1,10 +1,14 @@
-# PhaseFit
-
-**AI 驱动的营养与健身追踪，助力有目标的体态管理。**
-
-拍照记录饮食。对话式追踪运动。智能评分系统。无论你在减脂、增肌还是维持体重，PhaseFit 都是你的 AI 伙伴。
-
-官网：[phasefit.top](https://phasefit.top)
+<div align="center">
+  <img src="assets/logo.png" alt="PhaseFit" width="120" />
+  <h1>PhaseFit</h1>
+  <p><strong>AI 驱动的营养与健身追踪，助力有目标的体态管理。</strong></p>
+  <p>拍照记录饮食。对话式追踪运动。智能评分系统。<br>无论你在减脂、增肌还是维持体重，PhaseFit 都是你的 AI 伙伴。</p>
+  <p>
+    <a href="https://phasefit.top">官网</a> &nbsp;|&nbsp;
+    <a href="https://phasefit.top/zh-CN/pricing">定价</a> &nbsp;|&nbsp;
+    <a href="README.md">English</a>
+  </p>
+</div>
 
 ---
 

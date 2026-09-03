@@ -1,12 +1,14 @@
-# PhaseFit
-
-[中文版](README.zh-CN.md)
-
-**AI-powered nutrition & fitness tracking for purposeful body recomposition.**
-
-Photo food logging. Conversational tracking. Smart scoring. Whether you are cutting, bulking, or maintaining, PhaseFit is your AI partner.
-
-Website: [phasefit.top](https://phasefit.top)
+<div align="center">
+  <img src="assets/logo.png" alt="PhaseFit" width="120" />
+  <h1>PhaseFit</h1>
+  <p><strong>AI-powered nutrition & fitness tracking for purposeful body recomposition.</strong></p>
+  <p>Photo food logging. Conversational tracking. Smart scoring.<br>Whether you are cutting, bulking, or maintaining, PhaseFit is your AI partner.</p>
+  <p>
+    <a href="https://phasefit.top">Website</a> &nbsp;|&nbsp;
+    <a href="https://phasefit.top/pricing">Pricing</a> &nbsp;|&nbsp;
+    <a href="README.zh-CN.md">中文版</a>
+  </p>
+</div>
 
 ---
 
