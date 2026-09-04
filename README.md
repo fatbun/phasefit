@@ -45,8 +45,8 @@ New users get a **14-day free trial** of Pro features -- no credit card required
 |---|---|
 | English (en-US) | Available |
 | Chinese (zh-CN) | Available |
-| Japanese (ja) | Coming soon |
-| Korean (ko) | Coming soon |
+| Japanese (ja-JP) | Available |
+| Korean (ko-KR) | Available |
 | Spanish (es) | Coming soon |
 | Portuguese (pt) | Coming soon |
 
