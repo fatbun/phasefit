@@ -24,4 +24,4 @@ If applicable, add screenshots to help explain the problem.
 - Device: [e.g. iPhone 15, Samsung S24, Desktop Chrome]
 - OS: [e.g. iOS 18, Android 15, macOS 15]
 - Browser: [e.g. Safari, Chrome 128]
-- Language: [e.g. zh-CN, en-US]
+- Language: [e.g. en-US, zh-CN, ja-JP, ko-KR]

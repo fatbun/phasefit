@@ -7,7 +7,9 @@
 <p align="center">
   <a href="https://phasefit.top/en/landing">Website</a> &nbsp;|&nbsp;
   <a href="https://phasefit.top/en/pricing">Pricing</a> &nbsp;|&nbsp;
-  <a href="README.zh-CN.md">中文版</a>
+  <a href="README.zh-CN.md">中文</a> &nbsp;|&nbsp;
+  <a href="README.ja-JP.md">日本語</a> &nbsp;|&nbsp;
+  <a href="README.ko-KR.md">한국어</a>
 </p>
 
 ---
