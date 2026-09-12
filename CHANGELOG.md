@@ -7,7 +7,7 @@ All notable changes to PhaseFit will be documented in this file.
 ## 2026-09-12
 
 ### Added
-- Region-aware healthy weight standards: BMI-based healthy weight range calculated per WHO regional guidelines (WHO General, Asian/WPRO, South Asian, Polynesian), displayed as a visual range bar on Profile and Onboarding pages with five distance-severity levels
+- Healthy weight range: automatically calculated healthy weight range displayed as a visual range bar on Profile and Onboarding pages with distance feedback
 
 ## 2026-09-08
 

@@ -28,7 +28,7 @@ PhaseFit is a phase-based weight management app that helps you track nutrition a
 | Meal & exercise logging | Yes | Yes |
 | AI fine-tuned for local cuisines | Yes | Yes |
 | Quick duplicate meals & exercises | Yes | Yes |
-| Region-aware healthy weight standards | Yes | Yes |
+| Healthy weight range | Yes | Yes |
 | AI model pack selection | -- | GLM5.2 Mix / DeepSeek V4 Pro Mix |
 | Weekly nutrition report & insights | -- | Yes |
 | Priority support | -- | Yes |
