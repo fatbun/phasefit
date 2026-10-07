@@ -4,6 +4,11 @@ All notable changes to PhaseFit will be documented in this file.
 
 ---
 
+## 2026-10-07
+
+### Changed
+- Dashboard: the weight, body fat and calorie deficit charts now cover the whole plan by default instead of only the most recent entries, so you can look back over your entire trajectory. Once a plan is long enough, a range switch (last 30 days / last 90 days / full plan) appears, and the weight and body fat changes follow the selected range and state what they are measured against
+
 ## 2026-09-12
 
 ### Added
