@@ -9,6 +9,10 @@ All notable changes to PhaseFit will be documented in this file.
 ### Changed
 - Dashboard: the weight, body fat and calorie deficit charts now cover the whole plan by default instead of only the most recent entries, so you can look back over your entire trajectory. Once a plan is long enough, a range switch (last 30 days / last 90 days / full plan) appears, and the weight and body fat changes follow the selected range and state what they are measured against
 
+### Fixed
+- Dark mode: the Timeline header no longer turns light gray, and pages no longer pick up a tinted background after visiting the Timeline. Bottom sheets and the date picker now follow the dark theme, and the Today date title and chat input bar use their intended dark colors
+- Senior mode: text sizes on the Profile and Timeline pages now apply as intended, and the stray light border around pages is gone
+
 ## 2026-09-12
 
 ### Added
