@@ -9,7 +9,9 @@
   <a href="https://phasefit.top/zh/pricing">定价</a> &nbsp;|&nbsp;
   <a href="README.md">English</a> &nbsp;|&nbsp;
   <a href="README.ja-JP.md">日本語</a> &nbsp;|&nbsp;
-  <a href="README.ko-KR.md">한국어</a>
+  <a href="README.ko-KR.md">한국어</a> &nbsp;|&nbsp;
+  <a href="README.es-ES.md">Español</a> &nbsp;|&nbsp;
+  <a href="README.pt-BR.md">Português</a>
 </p>
 
 ---
@@ -50,8 +52,8 @@ PhaseFit 是一款基于阶段管理的体重管控应用，通过 AI 辅助追�
 | 中文 (zh-CN) | 已支持 |
 | 日本語 (ja-JP) | 已支持 |
 | 한국어 (ko-KR) | 已支持 |
-| 西班牙语 (es) | 即将上线 |
-| 葡萄牙语 (pt) | 即将上线 |
+| Español (es-ES) | 已支持 |
+| Português (pt-BR) | 已支持 |
 
 所有支持的语言均包含完整的国际化覆盖，包括针对地域饮食习惯优化的 AI 提示词和营养数据库。
 

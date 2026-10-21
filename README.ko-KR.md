@@ -9,7 +9,9 @@
   <a href="https://phasefit.top/ko/pricing">요금제</a> &nbsp;|&nbsp;
   <a href="README.md">English</a> &nbsp;|&nbsp;
   <a href="README.zh-CN.md">中文</a> &nbsp;|&nbsp;
-  <a href="README.ja-JP.md">日本語</a>
+  <a href="README.ja-JP.md">日本語</a> &nbsp;|&nbsp;
+  <a href="README.es-ES.md">Español</a> &nbsp;|&nbsp;
+  <a href="README.pt-BR.md">Português</a>
 </p>
 
 ---
@@ -50,8 +52,8 @@ PhaseFit은 AI를 활용하여 영양과 운동을 관리하는 단계별 체중
 | 中文 (zh-CN) | 지원 |
 | 日本語 (ja-JP) | 지원 |
 | 한국어 (ko-KR) | 지원 |
-| Spanish (es) | 출시 예정 |
-| Portuguese (pt) | 출시 예정 |
+| Español (es-ES) | 지원 |
+| Português (pt-BR) | 지원 |
 
 지원 언어는 UI 번역뿐만 아니라, 각 지역의 식문화와 영양 데이터베이스에 최적화된 AI 프롬프트를 포함한 완전한 현지화를 제공합니다.
 

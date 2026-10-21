@@ -9,7 +9,9 @@
   <a href="https://phasefit.top/en/pricing">Pricing</a> &nbsp;|&nbsp;
   <a href="README.zh-CN.md">中文</a> &nbsp;|&nbsp;
   <a href="README.ja-JP.md">日本語</a> &nbsp;|&nbsp;
-  <a href="README.ko-KR.md">한국어</a>
+  <a href="README.ko-KR.md">한국어</a> &nbsp;|&nbsp;
+  <a href="README.es-ES.md">Español</a> &nbsp;|&nbsp;
+  <a href="README.pt-BR.md">Português</a>
 </p>
 
 ---
@@ -50,8 +52,8 @@ New users get a **14-day free trial** of Pro features -- no credit card required
 | Chinese (zh-CN) | Available |
 | Japanese (ja-JP) | Available |
 | Korean (ko-KR) | Available |
-| Spanish (es) | Coming soon |
-| Portuguese (pt) | Coming soon |
+| Spanish (es-ES) | Available |
+| Portuguese (pt-BR) | Available |
 
 All supported languages include full i18n coverage with AI prompts fine-tuned for regional cuisines and nutrition databases.
 

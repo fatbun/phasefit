@@ -9,7 +9,9 @@
   <a href="https://phasefit.top/ja/pricing">料金プラン</a> &nbsp;|&nbsp;
   <a href="README.md">English</a> &nbsp;|&nbsp;
   <a href="README.zh-CN.md">中文</a> &nbsp;|&nbsp;
-  <a href="README.ko-KR.md">한국어</a>
+  <a href="README.ko-KR.md">한국어</a> &nbsp;|&nbsp;
+  <a href="README.es-ES.md">Español</a> &nbsp;|&nbsp;
+  <a href="README.pt-BR.md">Português</a>
 </p>
 
 ---
@@ -50,8 +52,8 @@ PhaseFit は、AI を活用して栄養と運動を管理するフェーズベ�
 | 中文 (zh-CN) | 対応済み |
 | 日本語 (ja-JP) | 対応済み |
 | 한국어 (ko-KR) | 対応済み |
-| Spanish (es) | 近日公開 |
-| Portuguese (pt) | 近日公開 |
+| Español (es-ES) | 対応済み |
+| Português (pt-BR) | 対応済み |
 
 対応言語は UI 翻訳だけでなく、各地域の食文化と栄養データベースに最適化された AI プロンプトを含む完全なローカライズを提供します。
 

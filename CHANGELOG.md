@@ -4,6 +4,11 @@ All notable changes to PhaseFit will be documented in this file.
 
 ---
 
+## 2026-10-21
+
+### Added
+- Spanish (es-ES) and Portuguese (pt-BR) full localization: UI, backend messages, and AI prompts with culturally adapted food recognition, nutritional standards (BEDCA / TACO / TBCA), and regional meal examples
+
 ## 2026-10-07
 
 ### Changed
